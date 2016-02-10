@@ -1,5 +1,8 @@
 # Vain Glory Random Player
 
+
+![logo](./VaingloryRandom/Assets.xcassets/AppIcon.appiconset/ipadpro.png)
+
 Our guild is always playing together in private mode. However, we don't want to chose the player ourselves. So, I decided to write this random player generator.
 
 You need to add your team players first in the app. After that just click random and it will show you who will be in Team 1, Team 2 and Spectators.
